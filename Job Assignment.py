@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-'''
-CISC 365 Test 5
-Created on Mon Apr 12 09:24:07 2021
-Patrick Bernhard 
-20060920
-
-'''
-# Under the assumtpion we are allowed to use imports as it's not stated
 import heapq
 import itertools
 '''
